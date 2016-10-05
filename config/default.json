@@ -1,0 +1,13 @@
+{
+  "http": {
+    "port": 3001
+  },
+  "mongo": {
+    "host": "localhost",
+    "db": "anonrig-boilerplate"
+  },
+  "redis": {
+    "host": "localhost",
+    "port": 6379
+  }
+}
